@@ -1,0 +1,1 @@
+﻿sqlcmd -s . -i create-db.sql
